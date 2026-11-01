@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="595" viewBox="0 0 820 595" role="img" aria-label="claude-links demo">
+<style>.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:14px;fill:#e6edf3}.d{fill:#8b949e}.l{fill:#79c0ff;text-decoration:underline}.n{font-family:-apple-system, Segoe UI, Helvetica, Arial, sans-serif;font-size:12.5px}.h{font-family:-apple-system, Segoe UI, Helvetica, Arial, sans-serif;font-size:13px;font-weight:600}</style>
+<rect x="10" y="10" width="800" height="170" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="30" cy="28" r="5" fill="#ff5f56"/><circle cx="46" cy="28" r="5" fill="#ffbd2e"/><circle cx="62" cy="28" r="5" fill="#27c93f"/>
+<rect x="82" y="17" width="69.6" height="22" rx="6" fill="#5a1e1e"/><text x="94" y="32" class="h" fill="#ffa198">Before</text>
+<text x="28" y="62" class="m" xml:space="preserve"><tspan class="d">● </tspan><tspan class="m">Created the screenshot at /Users/minh/projects/my-app/as</tspan></text>
+<text x="28" y="83" class="m" xml:space="preserve"><tspan class="m">sets/screenshots/dashboard-2026-11-01.png and updated</tspan></text>
+<text x="28" y="104" class="m" xml:space="preserve"><tspan class="m">/Users/minh/projects/my-app/deploy/compose/user-01/do</tspan></text>
+<text x="28" y="125" class="m" xml:space="preserve"><tspan class="m">cker-compose.yml</tspan></text>
+<text x="28" y="150" class="n" fill="#ffa198">Clicking opens only half the path, or nothing at all</text>
+<rect x="10" y="195" width="800" height="150" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="30" cy="213" r="5" fill="#ff5f56"/><circle cx="46" cy="213" r="5" fill="#ffbd2e"/><circle cx="62" cy="213" r="5" fill="#27c93f"/>
+<rect x="82" y="202" width="297.59999999999997" height="22" rx="6" fill="#12361f"/><text x="94" y="217" class="h" fill="#7ee787">After: short links (OSC 8 terminals)</text>
+<text x="28" y="247" class="m" xml:space="preserve"><tspan class="d">● </tspan><tspan class="m">Created the screenshot and updated the compose file:</tspan></text>
+<text x="28" y="268" class="m" xml:space="preserve"><tspan class="m">   </tspan><tspan class="l">dashboard-2026-11-01.png</tspan></text>
+<text x="28" y="289" class="m" xml:space="preserve"><tspan class="m">   </tspan><tspan class="l">docker-compose.yml</tspan></text>
+<text x="28" y="314" class="n" fill="#8b949e">Short label, full path hidden underneath. Cmd/Ctrl + click to open</text>
+<rect x="10" y="360" width="800" height="225" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="30" cy="378" r="5" fill="#ff5f56"/><circle cx="46" cy="378" r="5" fill="#ffbd2e"/><circle cx="62" cy="378" r="5" fill="#27c93f"/>
+<rect x="82" y="367" width="259.6" height="22" rx="6" fill="#0c2d4f"/><text x="94" y="382" class="h" fill="#79c0ff">Fallback: run ol in another tab</text>
+<text x="28" y="412" class="m" xml:space="preserve"><tspan class="d">$ </tspan><tspan class="m">ol</tspan></text>
+<text x="28" y="433" class="m" xml:space="preserve"><tspan class="m">  /Users/minh/projects/my-app/assets/screenshots/dashboard-2026-11-01.png</tspan></text>
+<text x="28" y="454" class="m" xml:space="preserve"><tspan class="m">  /Users/minh/projects/my-app/deploy/compose/user-01/docker-compose.yml</tspan></text>
+<text x="28" y="475" class="m" xml:space="preserve"><tspan class="l">&gt; /Users/minh/projects/my-app/docs/setup-guide.md</tspan></text>
+<text x="28" y="496" class="m" xml:space="preserve"><tspan class="d">  3/3</tspan></text>
+<text x="28" y="517" class="m" xml:space="preserve"><tspan class="m">Open file: </tspan><tspan class="d">setup</tspan><tspan class="m">▏</tspan></text>
+<text x="28" y="542" class="n" fill="#8b949e">Type to filter, Enter opens with the default app</text>
+</svg>
